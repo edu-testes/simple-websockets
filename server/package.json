@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./build/main.js",
+  "scripts": {
+    "start": "npx tsc && node ./build/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Volodymyr Nerovnia",
+  "license": "SEE LICENSE IN ../LICENSE",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
