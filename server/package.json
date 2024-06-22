@@ -10,6 +10,10 @@
   "author": "Volodymyr Nerovnia",
   "license": "SEE LICENSE IN ../LICENSE",
   "devDependencies": {
+    "@types/ws": "^8.5.10",
     "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "ws": "^8.17.1"
   }
 }
